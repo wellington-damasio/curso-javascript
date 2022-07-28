@@ -1,0 +1,1 @@
+this.ola = 'Oi, tudo bem?'
